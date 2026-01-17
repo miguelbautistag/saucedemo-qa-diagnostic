@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Sauce Demo - QA Diagnostic & Bug Tracking
+# Sauce Demo - QA Diagnostic & Bug Tracking
 
 ## 📌 Project Overview
 This project consists of a deep-dive functional analysis of the [Sauce Demo](https://www.saucedemo.com/) e-commerce platform. The goal was to identify critical functional gaps using the **'error_user'** profile and document them following industry standards.
